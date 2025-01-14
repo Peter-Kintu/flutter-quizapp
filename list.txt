@@ -1,0 +1,29 @@
+apps1                                             
+-has user login and the name displays on all pages
+-has title with the name of the user
+-has welcome message and the questions 
+-has category and number of questions
+-has qustions and the scores on each page
+-each categroy has 10 questions
+app2
+welcome page with login and the name displays on each page of the question
+-shared pereference
+-admin panel where teachers will use to entere the question
+-admin panel has add button for adding the them and the topic of the question
+-has add question page where teachers add the question
+-category of questions for users.
+-the timer
+-question panel
+-has score page and the scores obtain by the user
+
+database for the second version - cloud database 
+        or backend that connect to the database
+        -advise from teachers and some children
+        -question seting from teachers
+        -advise on the features and designs
+        - if the option is online app, i will need fundings
+        -if the option is for ofline after modifying and testing, 
+        online money for opening the playstore account will be needed.
+        - i also have a suggestion to turn Bible study books into an app,
+         i can embed it with ai to help in interpretation.
+        
